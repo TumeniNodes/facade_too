@@ -1,0 +1,80 @@
+[Mod]Facade Too [facade_too] [Ver. 0.1.0]
+Copyright (c) 2015-2026 TumeniNodes
+-------------------------------------------------------------------------------
+Source Code License
+-------------------------------------------------------------------------------
+All custom Lua script code (.lua files) written for this mod is licensed under 
+the MIT License:
+
+Copyright (c) 2015-2026 TumeniNodes
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+Media & Assets License
+-------------------------------------------------------------------------------
+The following custom texture maps created for this mod are licensed under the 
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
+License:
+
+Copyright (c) 2015-2026 TumeniNodes
+
+Textures (/textures/):
+- facade_bannerstone.png
+- facade_bannerstone_2.png
+- facade_carved_stone_a.png
+- facade_centerstone.png
+- facade_clay_corner_brick.png
+- facade_column.png
+- facade_ornate_01.png
+- facade_rgspro.png
+- facade_sml_column.png
+- facade_sml_column_chiseled.png
+- facade_sml_column_chiseled_top.png
+- facade_sml_column_top.png
+* All NBE (NodeBox Editor) files
+* All screenshots
+
+To view a copy of this license, visit:
+https://creativecommons.org
+
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material for any purpose, 
+  even commercially.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, 
+  and indicate if changes were made.
+- ShareAlike: If you remix, transform, or build upon the material, you must 
+  distribute your contributions under the same license as the original.
+
+-------------------------------------------------------------------------------
+Third-Party & Game Engine Compatibility Disclaimer
+-------------------------------------------------------------------------------
+This mod contains functional modifications, structural interaction baselines, 
+and bounding nodebox transformations designed to interface with core 
+Minetest Game code built on the Luanti engine framework. 
+
+Any game code elements or base library hooks referenced or borrowed from the 
+native engine API (such as default sounds, stone default parameters, or 
+facedir interactions) adhere strictly to the terms of the GNU Lesser General 
+Public License version 2.1 or later (LGPL 2.1 or later) as distributed by the 
+Minetest/Luanti development community.
+
